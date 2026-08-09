@@ -46,7 +46,7 @@ Status: VERIFIED — Matched in victim database
 
 ---
 
-![Telegram Alert]([images/telegram_hit.png](https://github-production-user-asset-6210df.s3.amazonaws.com/315022074/633461204-94969d18-2121-45e8-8b10-51db450a3bab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260809T225313Z&X-Amz-Expires=300&X-Amz-Signature=69a4e713ceffd9a9205e9e3bec29c873190c33141b932d052901557fd4817349&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng))
+![Terminal Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/315022074/633461204-94969d18-2121-45e8-8b10-51db450a3bab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260809T225313Z&X-Amz-Expires=300&X-Amz-Signature=69a4e713ceffd9a9205e9e3bec29c873190c33141b932d052901557fd4817349&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
 
 
 ## Tools Available
