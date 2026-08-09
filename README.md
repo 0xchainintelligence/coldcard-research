@@ -25,7 +25,7 @@ We reverse-engineered the exact attack chain.
 
 ## Proof of Work
 
-![Terminal Demo] <img width="737" height="979" alt="Image" src="https://github.com/user-attachments/assets/384a3d80-bcff-4d8d-ae9a-89c158640525" />
+![Terminal Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/315022074/633461046-384a3d80-bcff-4d8d-ae9a-89c158640525.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260809T225149Z&X-Amz-Expires=300&X-Amz-Signature=4703d4c8d9c83d78247d3186cf0c46bcd68b22edffccbf6b955520d8774c9a57&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
 COLDCARD ENUM TOOLS v2.1 — LIVE SCAN
 Engine: Yasmarang PRNG (firmware bit-exact port)
 
